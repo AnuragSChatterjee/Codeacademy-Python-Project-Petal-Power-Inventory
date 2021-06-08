@@ -1,1 +1,1 @@
-# Codeacademy-Python-Project-Petal-Power-Inventory
+# Codeacademy-Python-Pandas-Project-Petal-Power-Inventory
